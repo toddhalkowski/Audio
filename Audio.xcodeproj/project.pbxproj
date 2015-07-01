@@ -13,6 +13,12 @@
 		138A74951B4327BE00E550DD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 138A74941B4327BE00E550DD /* Images.xcassets */; };
 		138A74981B4327BE00E550DD /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 138A74961B4327BE00E550DD /* LaunchScreen.xib */; };
 		138A74A41B4327BF00E550DD /* AudioTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138A74A31B4327BF00E550DD /* AudioTests.swift */; };
+		138A74AE1B4327DB00E550DD /* Thunder Road-Bruce Springsteen.dmg in Resources */ = {isa = PBXBuildFile; fileRef = 138A74AD1B4327DB00E550DD /* Thunder Road-Bruce Springsteen.dmg */; };
+		138A74AF1B4327DB00E550DD /* Thunder Road-Bruce Springsteen.dmg in Resources */ = {isa = PBXBuildFile; fileRef = 138A74AD1B4327DB00E550DD /* Thunder Road-Bruce Springsteen.dmg */; };
+		138A74B11B43308B00E550DD /* r_allemande.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 138A74B01B43308B00E550DD /* r_allemande.mp3 */; };
+		138A74B21B43308B00E550DD /* r_allemande.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 138A74B01B43308B00E550DD /* r_allemande.mp3 */; };
+		138A74B41B43313700E550DD /* Bruce1.dmg in Resources */ = {isa = PBXBuildFile; fileRef = 138A74B31B43313700E550DD /* Bruce1.dmg */; };
+		138A74B51B43313700E550DD /* Bruce1.dmg in Resources */ = {isa = PBXBuildFile; fileRef = 138A74B31B43313700E550DD /* Bruce1.dmg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +42,9 @@
 		138A749D1B4327BE00E550DD /* AudioTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AudioTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		138A74A21B4327BF00E550DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		138A74A31B4327BF00E550DD /* AudioTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTests.swift; sourceTree = "<group>"; };
+		138A74AD1B4327DB00E550DD /* Thunder Road-Bruce Springsteen.dmg */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Thunder Road-Bruce Springsteen.dmg"; sourceTree = "<group>"; };
+		138A74B01B43308B00E550DD /* r_allemande.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = r_allemande.mp3; sourceTree = "<group>"; };
+		138A74B31B43313700E550DD /* Bruce1.dmg */ = {isa = PBXFileReference; lastKnownFileType = file; path = Bruce1.dmg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +68,9 @@
 		138A747F1B4327BE00E550DD = {
 			isa = PBXGroup;
 			children = (
+				138A74B01B43308B00E550DD /* r_allemande.mp3 */,
+				138A74AD1B4327DB00E550DD /* Thunder Road-Bruce Springsteen.dmg */,
+				138A74B31B43313700E550DD /* Bruce1.dmg */,
 				138A748A1B4327BE00E550DD /* Audio */,
 				138A74A01B4327BE00E550DD /* AudioTests */,
 				138A74891B4327BE00E550DD /* Products */,
@@ -192,6 +204,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				138A74AE1B4327DB00E550DD /* Thunder Road-Bruce Springsteen.dmg in Resources */,
+				138A74B11B43308B00E550DD /* r_allemande.mp3 in Resources */,
+				138A74B41B43313700E550DD /* Bruce1.dmg in Resources */,
 				138A74931B4327BE00E550DD /* Main.storyboard in Resources */,
 				138A74981B4327BE00E550DD /* LaunchScreen.xib in Resources */,
 				138A74951B4327BE00E550DD /* Images.xcassets in Resources */,
@@ -202,6 +217,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				138A74AF1B4327DB00E550DD /* Thunder Road-Bruce Springsteen.dmg in Resources */,
+				138A74B21B43308B00E550DD /* r_allemande.mp3 in Resources */,
+				138A74B51B43313700E550DD /* Bruce1.dmg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
